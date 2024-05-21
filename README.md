@@ -20,8 +20,8 @@ Before running this project, ensure you have the following:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-repository/project-name.git
-   cd project-name
+   git clone https://github.com/PiRaj1404/GoogleMathGenius.git
+   cd GoogleMathGenius
    ```
    
 2. Setup a virtual environment (recommended):
@@ -62,4 +62,4 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Contact
-For questions or assistance, please contact [Your Name] at rajkarne@pdx.edu
+For questions or assistance, please contact Piyush at rajkarne@pdx.edu
